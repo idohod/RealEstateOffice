@@ -11,4 +11,4 @@ show all client per apartment
 sort client names for aprtment,
 show all commissions for the aprtments,
 dublicate apatment,
-save to binary file and exit (and read from filr when run again the system) 
+save to binary file and exit (and read from file when run again the system) 
